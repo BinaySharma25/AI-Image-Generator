@@ -6,3 +6,5 @@ Built a platform where users can turn their words into stunning visuals — inst
 Tech Stack:
 Frontend: HTML, CSS, JavaScript.
 Backend: API integration for AI image generation.
+
+![image alt](https://github.com/BinaySharma25/AI-Image-Generator/blob/main/AI-Light.png?raw=true)
