@@ -1,5 +1,5 @@
 const API_KEY = 'Api-key'; 
-const API_URL = 'https://api.vyro.ai/v2/image/generations';
+const API_URL = 'Api';
 
 const imageContainer = document.getElementById('imageContainer');
 const imageResultElement = document.getElementById('imageResult');
