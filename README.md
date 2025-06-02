@@ -6,7 +6,9 @@ Built a platform where users can turn their words into stunning visuals — inst
 Tech Stack:
 Frontend: HTML, CSS, JavaScript.
 Backend: API integration for AI image generation.
+
 Link--https://ai-image-generator-binay.netlify.app/
+
 ![image alt](https://github.com/BinaySharma25/AI-Image-Generator/blob/main/AI-Light.png?raw=true)
 In Dark Mode
 ![image alt](https://github.com/BinaySharma25/AI-Image-Generator/blob/main/AI-Dark.png?raw=true)
